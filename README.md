@@ -1,4 +1,4 @@
-Generating and Comparing Adversarial Attacks on Text-Based Sentiment Detector using Integrated Gradient
+#Generating and Comparing Adversarial Attacks on Text-Based Sentiment Detector using Integrated Gradient
 This project investigates the vulnerabilities of text-based sentiment detectors to adversarial manipulations and evaluates various attack techniques to enhance their robustness. Our primary focus is on leveraging Integrated Gradients (IG) as a novel approach to generate more effective defenses against adversarial perturbations.
 Key Features:
 Implementation of Adversarial Attacks: We implement and compare the performance of various adversarial attack algorithms, including Fast Gradient Sign Method (FGSM), K-Projected Gradient Descent (K-PGD), and Integrated Gradients (IG).
